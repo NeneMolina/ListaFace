@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="horaMensaje">18:30</string>
+    <string name="nombrePersona">Juan José Munera</string>
+    <string name="ultimoMensaje">Bienvenido al equipo</string>
+    <string name="nombre">Nombre</string>
+    <string name="mensaje">Último mensaje recibido</string>
+    <string name="telefono">Teléfono</string>
+    <string name="numeroTelefono">+573145673421</string>
+    <string name="pais">País</string>
+    <string name="nombrePais">Inglaterra</string>
+</resources>
